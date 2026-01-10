@@ -1,4 +1,4 @@
----
+
 
 # 🎬 Movie Recommendation System (SVD)
 
@@ -7,7 +7,7 @@
 Welcome! 👋
 This repository contains a **movie recommendation system** built using **Singular Value Decomposition (SVD)**. The project is designed as a **learning-focused data science project**, with both a **starter (blank) version** and a **fully completed version** so you can follow along, practice, and compare your work.
 
----
+
 
 ## 📖 About This Project
 
