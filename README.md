@@ -1,21 +1,19 @@
-
-
-# 🎬 Movie Recommendation System (SVD)
+#  Movie Recommendation System (SVD)
 
 **NSDC Data Science Project**
 
-Welcome! 👋
+Welcome! 
 This repository contains a **movie recommendation system** built using **Singular Value Decomposition (SVD)**. The project is designed as a **learning-focused data science project**, with both a **starter (blank) version** and a **fully completed version** so you can follow along, practice, and compare your work.
 
 
 
-## 📖 About This Project
+##  About This Project
 
-Recommendation systems power many platforms we use every day — Netflix, Amazon, Spotify, and more. In this project, we build a **collaborative filtering movie recommender** using SVD and the **MovieLens 100k dataset**.
+Recommendation systems power many platforms we use every day — Netflix, Amazon, Spotify, and more. In this project, we build a collaborative-filtering movie recommender using SVD and the MovieLens 100k dataset.
 This project is part of the **NSDC Data Science curriculum** and is meant to be hands-on and practical.
 
 
-## 📊 Dataset
+##  Dataset
 
 **MovieLens 100k Dataset**
 
@@ -24,18 +22,15 @@ This project is part of the **NSDC Data Science curriculum** and is meant to be 
 * 1,682 movies
 * Ratings from 1–5
 
----
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-* Python 🐍
+* Python 
 * Pandas & NumPy
 * Scikit-learn / Surprise (for SVD)
 * Jupyter Notebook (recommended)
 
----
-
-## 🧭 Project Milestones
+## Project Milestones
 
 ### Milestone 1: SVD Crash Course
 
